@@ -1,0 +1,23 @@
+.headerBody {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+  display: flex;
+}
+h1 {
+  margin-top: 20px;
+}
+ul {
+  margin-top: 30px;
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+.listtext {
+  font-size: 16px;
+
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(8, 8, 122);
+}

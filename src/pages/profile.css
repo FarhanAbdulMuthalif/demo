@@ -1,0 +1,14 @@
+.profilecontent {
+  display: flex;
+}
+.viewProfile {
+  margin-left: 45%;
+  height: 40px;
+  width: 100px;
+  background-color: rgba(0, 255, 255, 0.534);
+  color: rgb(11, 11, 146);
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: rgba(255, 0, 0, 0.103);
+}
